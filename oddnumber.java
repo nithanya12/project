@@ -1,4 +1,4 @@
-public class oddnumber
+public class Oddnumber
 {
 	public static void main(String args[])
 	{
